@@ -16,3 +16,9 @@
 - 三栏布局（master分支，基于[3-Jekyll](https://github.com/P233/3-Jekyll)）
 - 三栏布局 (bootstrap-based分支，基于Bootstrap)
 - 单栏布局（first-ui分支，基于Bootstrap）
+
+### 遗留问题
+
+1. 头像没有显示，头像从哪里拿来的？
+2. 数据驱动问题，模版问题
+3. 修改了gitpage，域名问题
