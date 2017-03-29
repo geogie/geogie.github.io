@@ -18,14 +18,11 @@
 - 单栏布局（first-ui分支，基于Bootstrap）
 
 ### 遗留问题
-
-1. 头像没有显示，头像从哪里拿来的？
-2. 数据驱动问题，模版问题
-3. 修改了gitpage，域名问题
+空
 
 ### 记录
+完成修改流程，本地搭建完成。
 
-1. 如果使用git的pager，根目录下CNAME必需删除，否则gitpager的seting警告
-2. ／_includes/sidebar.html: 最新文章：Search
-3. ／_includes/social.html: twitter、weibo、github、linkedin、instagram
+
+
 
