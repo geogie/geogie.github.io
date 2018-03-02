@@ -223,18 +223,6 @@ ReactDOM.render(
 ```
 
 
-在 App.js 中写入
-
-```javascript
-import React from 'react';
-
-export default class App extends React.Component {
-  render() {
-    return (<div style={{textAlign: 'center'}}><h1>Hello World</h1></div>);
-  }
-}
-```
-
 ## 5. 设置 React-Router
 
 想要完成页面跳转以及一些复杂的多页面操作，可以使用 React-Router 来支持
